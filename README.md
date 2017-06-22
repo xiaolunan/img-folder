@@ -51,3 +51,5 @@ B：没有啊 你想问什么？
 ![JAVA](https://pic2.zhimg.com/6baa5c75a3150d7225a27b73c9f3e7d9_b.png "JAVA")
 
 ![JAVA](https://pic3.zhimg.com/b1a96b0da0950a7b5d5317fc691f1902_b.png "JAVA")
+
+### C is a good language.卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡
