@@ -52,4 +52,4 @@ B：没有啊 你想问什么？
 
 ![JAVA](https://pic3.zhimg.com/b1a96b0da0950a7b5d5317fc691f1902_b.png "JAVA")
 
-### C is a good language.卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡
+### JAVA is a good language.卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡卡
